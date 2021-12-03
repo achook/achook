@@ -9,3 +9,6 @@ I like programming, cheese and photography
 
 [Hosted on Azure](http://dos.karol.omg.lol)
 ([Source](https://github.com/achook/page_dos))
+
+## Fork
+[Linux kernel](https://github.com/achook/linux)
