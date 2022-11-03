@@ -1,14 +1,13 @@
 # Karol Kucza
 
-I like programming, cheese and photography
+Computer Science and Intelligent Systems student at the [AGH UST](https://www.agh.edu.pl/en) in Kraków, Poland.
 
-## My webpages
-[Hosted on GitHub](https://uno.karol.omg.lol)
-([Source](https://github.com/achook/page_uno))
+## About me
 
+I'm a 3nd year student of Computer Science. I'm interested in programming and machine learning.
 
-[Hosted on Azure](http://dos.karol.omg.lol)
-([Source](https://github.com/achook/page_dos))
+Apart from that, I get a new hobby every other week, but some of those I stuck with are photography (especially street photography), cooking (italian and south-east asian cuisine) and mountain hiking (everywhere and anywhere).
 
-## Fork
-[Linux kernel](https://github.com/achook/linux)
+## Some of the projects I've worked on
+
+_TODO_
